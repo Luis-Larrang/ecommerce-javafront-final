@@ -1,0 +1,14 @@
+.ocultar{
+    display: none;
+}
+
+.bordeCargaProducto{
+    border-radius: 25px 25px 25px 25px;
+    border: solid green;
+    padding: 1rem;
+}
+.bordeCarrito{
+    border-radius: 25px 25px 25px 25px;
+    border: solid green;
+    padding: 0.4rem;
+}
